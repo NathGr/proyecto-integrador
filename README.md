@@ -12,3 +12,5 @@ grupo 410
 
 
 [EVOLUCION DE VIDEOJUEGOS](https://github.com/NathGr/proyecto-integrador/wiki/Evoluci%C3%B3n-de-los-Videojuegos)
+
+[NUEVOS LANZAMIENTOS 2018](https://github.com/NathGr/proyecto-integrador/wiki/Nuevos-Lanzamientos-2018)
